@@ -29,7 +29,7 @@ class MainWindow(QMainWindow):
         layout.addWidget(self.input_text1)
         layout.addWidget(self.label_quadros)
         layout.addWidget(self.input_text2)
-        layout.addWidget(self.process_button)  # Adicionar o botão ao layout
+        layout.addWidget(self.process_button)  
         layout.addWidget(self.label_saida)
         layout.addWidget(self.output_text)        
 
