@@ -62,16 +62,11 @@ class MainWindow(QMainWindow):
             self.input_text2.setPlainText("")        
 
     def on_process_button_clicked(self):
-        # Salvar os textos nos arquivos correspondentes
         with open('personagens.txt', 'w', encoding='ISO-8859-1') as f:
             f.write(self.input_text1.toPlainText())
         with open('quadros.txt', 'w', encoding='ISO-8859-1') as f:
             f.write(self.input_text2.toPlainText())
-
-        # Chamar a função de processamento do ArrPro.py
         ArrPro.processar_dados()
-
-        # Ler a saída e mostrar no campo de saída
         with open('saida.txt', 'r', encoding='utf-8') as f:
             saida = f.read()
         self.output_text.setPlainText(saida)
