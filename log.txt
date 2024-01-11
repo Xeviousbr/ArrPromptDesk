@@ -1,0 +1,184 @@
+Lendo entradadas
+Entradas lidas
+Iniciando processamento de quadros...
+Total de quadros identificados: 22
+Linha processada: Quadro 1 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico parece distraído. Sua mãe, preocupada, pergunta o que ele tem. Ele responde de forma abrupta.
+Quadro processado com sucesso.
+Linha processada: Quadro 2 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe expressa decepção ao mencionar que Magricelas não se despediu ao ir embora, chamando-o de ingrato. Frederico parece triste com isso.
+Quadro processado com sucesso.
+Linha processada: Quadro 3 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe repreende Frederico pelo seu tom de voz. Ele pede desculpas, mencionando que Magricelas foi embora.
+Quadro processado com sucesso.
+Linha processada: Quadro 4 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico e sua mãe discutem a partida repentina de Magricelas. A mãe tenta minimizar a situação.
+Quadro processado com sucesso.
+Linha processada: Quadro 5 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico compartilha com entusiasmo que no planeta de Magricelas também existe gelatina.
+Quadro processado com sucesso.
+Linha processada: Quadro 6 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe expressa surpresa. Frederico descreve um frigorífico especial para gelatina colorida em sua casa.
+Quadro processado com sucesso.
+Linha processada: Quadro 7 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico explica o nome do planeta de Magricelas e a distância dele da Terra.
+Quadro processado com sucesso.
+Linha processada: Quadro 8 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico mostra à mãe um pequeno aparelho futurista. Ele explica que é um tradutor de pensamentos, permitindo-lhes comunicar com Magricelas.
+Quadro processado com sucesso.
+Linha processada: Quadro 9 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico conta à sua mãe sobre o Planeta 135 AC de Magricelas, destacando que fica a 40 mil anos-luz do nosso planeta. A mãe parece impressionada.
+Quadro processado com sucesso.
+Linha processada: Quadro 10 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe questiona como eles se comunicam. Frederico menciona um dispositivo de tradução.
+Quadro processado com sucesso.
+Linha processada: Quadro 11 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe encoraja Frederico a voltar aos estudos agora que Magricelas se foi.
+Quadro processado com sucesso.
+Linha processada: Quadro 12 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Tempo depois, a mãe pergunta sobre a escola no planeta de Magricelas. Frederico comenta sobre a comunicação telepática.
+Quadro processado com sucesso.
+Linha processada: Quadro 13 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Dois meses depois, Frederico anuncia que Magricelas pode visitar novamente.
+Quadro processado com sucesso.
+Linha processada: Quadro 14 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe concorda com a visita, questionando detalhes.
+Quadro processado com sucesso.
+Linha processada: Quadro 15 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico explica o método de viagem de Magricelas e sua família, surpreendendo sua mãe.
+Quadro processado com sucesso.
+Linha processada: Quadro 16 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe comenta, um pouco preocupada, sobre o custo das viagens de Magricelas, especulando que devem ser caras em seu próprio dinheiro. Frederico parece pensativo.
+Quadro processado com sucesso.
+Linha processada: Quadro 17 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe pede a Frederico para avisá-la quando eles chegarem para se preparar.
+Quadro processado com sucesso.
+Linha processada: Quadro 18 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: 15 dias depois, Frederico informa que Magricelas e sua família estão a caminho.
+Quadro processado com sucesso.
+Linha processada: Quadro 19 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico revela que não sabe exatamente quantos membros da família de Magricelas estão vindo.
+Quadro processado com sucesso.
+Linha processada: Quadro 20 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe expressa preocupação com o grande número de visitantes.
+Quadro processado com sucesso.
+Linha processada: Quadro 21 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico tenta tranquilizar a mãe, mencionando que eles trazem tudo o que precisam e menciona a chegada do "campeão da gelatina".
+Quadro processado com sucesso.
+Linha processada: Quadro 22 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico menciona com entusiasmo que, junto com Magricelas e sua família, virá o "campeão da gelatina". A mãe parece surpresa e curiosa.
+Quadro processado com sucesso.
+Lendo entradas
+Entradas lidas
+Iniciando processamento de quadros...
+Total de quadros identificados: 22
+Linha processada: Quadro 1 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico parece distraído. Sua mãe, preocupada, pergunta o que ele tem. Ele responde de forma abrupta.
+Quadro processado com sucesso.
+Linha processada: Quadro 2 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe expressa decepção ao mencionar que Magricelas não se despediu ao ir embora, chamando-o de ingrato. Frederico parece triste com isso.
+Quadro processado com sucesso.
+Linha processada: Quadro 3 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe repreende Frederico pelo seu tom de voz. Ele pede desculpas, mencionando que Magricelas foi embora.
+Quadro processado com sucesso.
+Linha processada: Quadro 4 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico e sua mãe discutem a partida repentina de Magricelas. A mãe tenta minimizar a situação.
+Quadro processado com sucesso.
+Linha processada: Quadro 5 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico compartilha com entusiasmo que no planeta de Magricelas também existe gelatina.
+Quadro processado com sucesso.
+Linha processada: Quadro 6 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe expressa surpresa. Frederico descreve um frigorífico especial para gelatina colorida em sua casa.
+Quadro processado com sucesso.
+Linha processada: Quadro 7 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico explica o nome do planeta de Magricelas e a distância dele da Terra.
+Quadro processado com sucesso.
+Linha processada: Quadro 8 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico mostra à mãe um pequeno aparelho futurista. Ele explica que é um tradutor de pensamentos, permitindo-lhes comunicar com Magricelas.
+Quadro processado com sucesso.
+Linha processada: Quadro 9 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico conta à sua mãe sobre o Planeta 135 AC de Magricelas, destacando que fica a 40 mil anos-luz do nosso planeta. A mãe parece impressionada.
+Quadro processado com sucesso.
+Linha processada: Quadro 10 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe questiona como eles se comunicam. Frederico menciona um dispositivo de tradução.
+Quadro processado com sucesso.
+Linha processada: Quadro 11 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe encoraja Frederico a voltar aos estudos agora que Magricelas se foi.
+Quadro processado com sucesso.
+Linha processada: Quadro 12 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Tempo depois, a mãe pergunta sobre a escola no planeta de Magricelas. Frederico comenta sobre a comunicação telepática.
+Quadro processado com sucesso.
+Linha processada: Quadro 13 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Dois meses depois, Frederico anuncia que Magricelas pode visitar novamente.
+Quadro processado com sucesso.
+Linha processada: Quadro 14 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe concorda com a visita, questionando detalhes.
+Quadro processado com sucesso.
+Linha processada: Quadro 15 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico explica o método de viagem de Magricelas e sua família, surpreendendo sua mãe.
+Quadro processado com sucesso.
+Linha processada: Quadro 16 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe comenta, um pouco preocupada, sobre o custo das viagens de Magricelas, especulando que devem ser caras em seu próprio dinheiro. Frederico parece pensativo.
+Quadro processado com sucesso.
+Linha processada: Quadro 17 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe pede a Frederico para avisá-la quando eles chegarem para se preparar.
+Quadro processado com sucesso.
+Linha processada: Quadro 18 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: 15 dias depois, Frederico informa que Magricelas e sua família estão a caminho.
+Quadro processado com sucesso.
+Linha processada: Quadro 19 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico revela que não sabe exatamente quantos membros da família de Magricelas estão vindo.
+Quadro processado com sucesso.
+Linha processada: Quadro 20 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: A mãe expressa preocupação com o grande número de visitantes.
+Quadro processado com sucesso.
+Linha processada: Quadro 21 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico tenta tranquilizar a mãe, mencionando que eles trazem tudo o que precisam e menciona a chegada do "campeão da gelatina".
+Quadro processado com sucesso.
+Linha processada: Quadro 22 no estilo Realista.
+Linha processada: Personagens: Frederico, Mãe
+Linha processada: Frederico menciona com entusiasmo que, junto com Magricelas e sua família, virá o "campeão da gelatina". A mãe parece surpresa e curiosa.
+Quadro processado com sucesso.
