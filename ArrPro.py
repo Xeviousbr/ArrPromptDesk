@@ -98,7 +98,7 @@ def processar_dados():
     personagens = processar_personagens(entrada_personagens)
     quadros = processar_quadros(entrada_quadros, personagens)
     saida = gerar_saida(quadros)
-    with open("saida.txt", "w", encoding='ISO-8859-1') as arquivo_saida:
+    with open("saida.txt", "w", encoding='utf-8') as arquivo_saida:
         arquivo_saida.write(saida)
 
 def extrair_personagens_do_quadro(linha, personagens_dict):
