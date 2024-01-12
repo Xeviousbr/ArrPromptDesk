@@ -1,0 +1,4 @@
+Lendo entradadas
+Entradas lidas
+Iniciando processamento de quadros...
+Nenhum quadro encontrado no arquivo.

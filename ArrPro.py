@@ -20,57 +20,19 @@ class Quadro:
        self.personagens = personagens
        self.descricao_completa = descricao_completa
 
-def extrair_personagens_do_quadro(linha, personagens_dict):
-    personagens_quadro = []
-    if 'Personagens:' in linha:
-        nomes_personagens = linha.split(':')[1].split(',')
-        for nome in nomes_personagens:
-            nome_limpo = nome.strip()
-            if nome_limpo in personagens_dict:
-                personagens_quadro.append(personagens_dict[nome_limpo])
-    return personagens_quadro
-
-def processar_quadros(entrada_quadros, personagens):
-    log("Iniciando processamento de quadros...")
-    quadros = []
-    if not entrada_quadros.strip():
-        log("Nenhum quadro encontrado no arquivo.")
-        return quadros
-
-    quadros_texto = entrada_quadros.split("Desenhe o ")[1:]  # Ignora a primeira parte vazia
-    log(f"Total de quadros identificados: {len(quadros_texto)}")
-
-    for quadro_texto in quadros_texto:
-        linhas = quadro_texto.strip().split('\n')
-        estilo, personagens_quadro, descricao = None, [], None
-
-        for i, linha in enumerate(linhas):
-            log(f"Linha processada: {linha}")
-            if not estilo:
-                estilo = processar_estilo(linha)
-            if not personagens_quadro:
-                personagens_quadro = extrair_personagens_do_quadro(linha, personagens)
-            if not descricao and personagens_quadro:
-                descricao = processar_descricao(linhas, i)
-
-        if estilo and descricao:
-            descricao_completa = f"Desenhe o Quadro no estilo {estilo}.\n{descricao}\n"
-            for p in personagens_quadro:
-                descricao_completa += f"{p.nome}: {p.descricao}\n"
-            quadro = Quadro(estilo, descricao, personagens_quadro, descricao_completa)
-            quadros.append(quadro)
-            log(f"Quadro processado com sucesso.")
-        else:
-            log(f"Não foi possível criar o quadro. Estilo: {estilo}, Personagens: {personagens_quadro}, Descrição: {descricao}")
-            log(quadro_texto)
-            sys.exit(1)
-
-    return quadros
-
 def processar_estilo(linha):
     if 'no estilo' in linha:
-        estilo = linha.split('no estilo')[1].strip()
-        return estilo
+        return linha.split('no estilo')[1].strip()
+    return None
+
+def processar_descricao(linhas, index_personagens):
+    # A descrição começa na linha seguinte à linha "Personagens:"
+    if index_personagens < len(linhas) - 1:
+        descricao = linhas[index_personagens + 1].strip()
+        # Remover aspas no início e no final, se houver
+        if descricao.startswith('"') and descricao.endswith('"'):
+            descricao = descricao[1:-1].strip()
+        return descricao
     return None
 
 def processar_personagens(entrada_personagens):
@@ -83,12 +45,6 @@ def processar_personagens(entrada_personagens):
             nome, descricao = match.groups()
             personagens[nome] = Personagem(nome, descricao)
     return personagens
-
-def processar_descricao(linhas, index):
-    # A descrição começa na linha seguinte após "Personagens:"
-    if index < len(linhas) - 1:
-        return linhas[index + 1].strip()
-    return None
 
 def encontrar_personagens(nomes_personagens, personagens):
     personagens_encontrados = []
@@ -125,7 +81,7 @@ def log(mensagem):
 
 def ler_arquivo(nome_arquivo):
     try:
-        with open(nome_arquivo, 'r', encoding='utf-8') as arquivo:
+        with open(nome_arquivo, 'r', encoding='ISO-8859-1') as arquivo:
             return arquivo.read()
     except FileNotFoundError:
         print(f"Arquivo '{nome_arquivo}' não encontrado.")
@@ -133,6 +89,8 @@ def ler_arquivo(nome_arquivo):
     
 def processar_dados():
     log("Lendo entradas")
+    nome_arquivo_personagens = 'personagens.txt'
+    nome_arquivo_quadros = 'quadros.txt'    
     entrada_personagens = ler_arquivo(nome_arquivo_personagens)
     entrada_quadros = ler_arquivo(nome_arquivo_quadros)
     log("Entradas lidas")
@@ -140,21 +98,68 @@ def processar_dados():
     personagens = processar_personagens(entrada_personagens)
     quadros = processar_quadros(entrada_quadros, personagens)
     saida = gerar_saida(quadros)
-    with open("saida.txt", "w") as arquivo_saida:
+    with open("saida.txt", "w", encoding='ISO-8859-1') as arquivo_saida:
         arquivo_saida.write(saida)
 
-nome_arquivo_personagens = 'personagens.txt'
-nome_arquivo_quadros = 'quadros.txt'
+def extrair_personagens_do_quadro(linha, personagens_dict):
+    personagens_quadro = []
+    if 'Personagens:' in linha:
+        nomes_personagens = [nome.strip().rstrip('.') for nome in linha.split(':')[1].split(',')]
+        for nome in nomes_personagens:
+            if nome in personagens_dict:
+                personagens_quadro.append(personagens_dict[nome])
+            else:
+                log(f"Personagem '{nome}' não encontrado.")
+    return personagens_quadro
 
-log("Lendo entradadas")
+def processar_quadros(entrada_quadros, personagens):
+    log("Iniciando processamento de quadros...")
+    quadros = []
+    if not entrada_quadros.strip():
+        log("Nenhum quadro encontrado no arquivo.")
+        return quadros
 
-entrada_personagens = ler_arquivo(nome_arquivo_personagens)
-entrada_quadros = ler_arquivo(nome_arquivo_quadros)
+    quadros_texto = entrada_quadros.split("Desenhe o Quadro ")[1:]
+    log(f"Total de quadros identificados: {len(quadros_texto)}")
 
-log("Entradas lidas")
+    for quadro_texto in quadros_texto:
+        linhas = quadro_texto.strip().split('\n')
+        estilo, personagens_quadro, descricao, linha_personagens, numero_quadro = None, [], None, None, None
 
-personagens = processar_personagens(entrada_personagens)
-quadros = processar_quadros(entrada_quadros, personagens)
-saida = gerar_saida(quadros)
-with open("saida.txt", "w") as arquivo_saida:
-   arquivo_saida.write(saida)
+        # Extrair o número do quadro
+        numero_quadro = re.findall(r'\d+', linhas[0])[0] if re.findall(r'\d+', linhas[0]) else None
+
+        for i, linha in enumerate(linhas):
+            log(f"Linha processada: {linha}")
+            if not estilo:
+                estilo = processar_estilo(linha)
+                log(f"Estilo processado: {estilo}")
+            if 'Personagens:' in linha:
+                linha_personagens = linha
+                personagens_quadro = extrair_personagens_do_quadro(linha, personagens)
+                log(f"Personagens processados: {', '.join([p.nome for p in personagens_quadro])}")
+            if i < len(linhas) - 1 and linhas[i].startswith('Personagens:'):
+                descricao = processar_descricao(linhas, i)
+                if descricao:
+                    log(f"Descrição processada: {descricao}")
+
+        if estilo and descricao:
+            quadro = criar_quadro(estilo, descricao, personagens_quadro, linha_personagens, numero_quadro)
+            quadros.append(quadro)
+            log(f"Quadro processado com sucesso.")
+        else:
+            log(f"Não foi possível criar o quadro. Estilo: {estilo}, Personagens: {[p.nome for p in personagens_quadro]}, Descrição: {descricao}")
+
+    return quadros
+
+def criar_quadro(estilo, descricao, personagens_quadro, linha_personagens, numero_quadro):
+    descricao_completa = f"Desenhe o Quadro no estilo {estilo}.\n"
+    if linha_personagens and not personagens_quadro:
+        descricao_completa += f"{linha_personagens}\n"
+    descricao_completa += f"{descricao}"
+    if numero_quadro:
+        descricao_completa += f"{numero_quadro}"
+    descricao_completa += "\n"
+    for p in personagens_quadro:
+        descricao_completa += f"{p.nome}: {p.descricao}\n"
+    return Quadro(estilo, descricao, personagens_quadro, descricao_completa)

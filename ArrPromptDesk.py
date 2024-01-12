@@ -22,7 +22,6 @@ class MainWindow(QMainWindow):
         self.output_text = QTextEdit(self)
         self.output_text.setReadOnly(True)  # Torna o campo de saída somente leitura
 
-
         # Layout vertical para organizar os widgets
         layout = QVBoxLayout()
         layout.addWidget(self.label_personagens)
@@ -47,7 +46,7 @@ class MainWindow(QMainWindow):
     def carregar_textos_iniciais(self):
         # Carregar o conteúdo de 'personagens.txt' em input_text1
         try:
-            with open('personagens.txt', 'r', encoding='utf-8') as f:
+            with open('personagens.txt', 'r', encoding='ISO-8859-1') as f:
                 self.input_text1.setPlainText(f.read())
         except FileNotFoundError:
             print("Arquivo 'personagens.txt' não encontrado. Iniciando com campo vazio.")
@@ -55,7 +54,7 @@ class MainWindow(QMainWindow):
 
         # Carregar o conteúdo de 'quadros.txt' em input_text2
         try:
-            with open('quadros.txt', 'r', encoding='utf-8') as f:
+            with open('quadros.txt', 'r', encoding='ISO-8859-1') as f:
                 self.input_text2.setPlainText(f.read())
         except FileNotFoundError:
             print("Arquivo 'quadros.txt' não encontrado. Iniciando com campo vazio.")
@@ -67,7 +66,7 @@ class MainWindow(QMainWindow):
         with open('quadros.txt', 'w', encoding='ISO-8859-1') as f:
             f.write(self.input_text2.toPlainText())
         ArrPro.processar_dados()
-        with open('saida.txt', 'r', encoding='utf-8') as f:
+        with open('saida.txt', 'r', encoding='ISO-8859-1') as f:
             saida = f.read()
         self.output_text.setPlainText(saida)
 

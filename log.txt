@@ -1,184 +1,206 @@
-Lendo entradadas
-Entradas lidas
-Iniciando processamento de quadros...
-Total de quadros identificados: 22
-Linha processada: Quadro 1 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico parece distraído. Sua mãe, preocupada, pergunta o que ele tem. Ele responde de forma abrupta.
-Quadro processado com sucesso.
-Linha processada: Quadro 2 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe expressa decepção ao mencionar que Magricelas não se despediu ao ir embora, chamando-o de ingrato. Frederico parece triste com isso.
-Quadro processado com sucesso.
-Linha processada: Quadro 3 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe repreende Frederico pelo seu tom de voz. Ele pede desculpas, mencionando que Magricelas foi embora.
-Quadro processado com sucesso.
-Linha processada: Quadro 4 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico e sua mãe discutem a partida repentina de Magricelas. A mãe tenta minimizar a situação.
-Quadro processado com sucesso.
-Linha processada: Quadro 5 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico compartilha com entusiasmo que no planeta de Magricelas também existe gelatina.
-Quadro processado com sucesso.
-Linha processada: Quadro 6 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe expressa surpresa. Frederico descreve um frigorífico especial para gelatina colorida em sua casa.
-Quadro processado com sucesso.
-Linha processada: Quadro 7 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico explica o nome do planeta de Magricelas e a distância dele da Terra.
-Quadro processado com sucesso.
-Linha processada: Quadro 8 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico mostra à mãe um pequeno aparelho futurista. Ele explica que é um tradutor de pensamentos, permitindo-lhes comunicar com Magricelas.
-Quadro processado com sucesso.
-Linha processada: Quadro 9 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico conta à sua mãe sobre o Planeta 135 AC de Magricelas, destacando que fica a 40 mil anos-luz do nosso planeta. A mãe parece impressionada.
-Quadro processado com sucesso.
-Linha processada: Quadro 10 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe questiona como eles se comunicam. Frederico menciona um dispositivo de tradução.
-Quadro processado com sucesso.
-Linha processada: Quadro 11 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe encoraja Frederico a voltar aos estudos agora que Magricelas se foi.
-Quadro processado com sucesso.
-Linha processada: Quadro 12 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Tempo depois, a mãe pergunta sobre a escola no planeta de Magricelas. Frederico comenta sobre a comunicação telepática.
-Quadro processado com sucesso.
-Linha processada: Quadro 13 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Dois meses depois, Frederico anuncia que Magricelas pode visitar novamente.
-Quadro processado com sucesso.
-Linha processada: Quadro 14 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe concorda com a visita, questionando detalhes.
-Quadro processado com sucesso.
-Linha processada: Quadro 15 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico explica o método de viagem de Magricelas e sua família, surpreendendo sua mãe.
-Quadro processado com sucesso.
-Linha processada: Quadro 16 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe comenta, um pouco preocupada, sobre o custo das viagens de Magricelas, especulando que devem ser caras em seu próprio dinheiro. Frederico parece pensativo.
-Quadro processado com sucesso.
-Linha processada: Quadro 17 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe pede a Frederico para avisá-la quando eles chegarem para se preparar.
-Quadro processado com sucesso.
-Linha processada: Quadro 18 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: 15 dias depois, Frederico informa que Magricelas e sua família estão a caminho.
-Quadro processado com sucesso.
-Linha processada: Quadro 19 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico revela que não sabe exatamente quantos membros da família de Magricelas estão vindo.
-Quadro processado com sucesso.
-Linha processada: Quadro 20 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe expressa preocupação com o grande número de visitantes.
-Quadro processado com sucesso.
-Linha processada: Quadro 21 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico tenta tranquilizar a mãe, mencionando que eles trazem tudo o que precisam e menciona a chegada do "campeão da gelatina".
-Quadro processado com sucesso.
-Linha processada: Quadro 22 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico menciona com entusiasmo que, junto com Magricelas e sua família, virá o "campeão da gelatina". A mãe parece surpresa e curiosa.
-Quadro processado com sucesso.
 Lendo entradas
 Entradas lidas
 Iniciando processamento de quadros...
-Total de quadros identificados: 22
-Linha processada: Quadro 1 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico parece distraído. Sua mãe, preocupada, pergunta o que ele tem. Ele responde de forma abrupta.
+Total de quadros identificados: 26
+Linha processada: 1 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Habitantes de Zion.
+Personagem 'Habitantes de Zion' não encontrado.
+Personagens processados: 
+Descrição processada: Vida cotidiana em Zion, mostrando diversas atividades do dia a dia.
+Linha processada: "Vida cotidiana em Zion, mostrando diversas atividades do dia a dia."
 Quadro processado com sucesso.
-Linha processada: Quadro 2 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe expressa decepção ao mencionar que Magricelas não se despediu ao ir embora, chamando-o de ingrato. Frederico parece triste com isso.
+Linha processada: 2 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Habitantes de Zion em diversas atividades.
+Personagem 'Habitantes de Zion em diversas atividades' não encontrado.
+Personagens processados: 
+Descrição processada: Várias cenas mostrando diferentes aspectos da vida cotidiana em Zion.
+Linha processada: "Várias cenas mostrando diferentes aspectos da vida cotidiana em Zion."
 Quadro processado com sucesso.
-Linha processada: Quadro 3 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe repreende Frederico pelo seu tom de voz. Ele pede desculpas, mencionando que Magricelas foi embora.
+Linha processada: 3 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, Arquiteto.
+Personagens processados: Niu, Arquiteto
+Descrição processada: Niu sonhando, com uma atmosfera etérea e surreal. Arquiteto: 'Niu, preciso de você para uma conferência urgente.'
+Linha processada: "Niu sonhando, com uma atmosfera etérea e surreal. Arquiteto: 'Niu, preciso de você para uma conferência urgente.'"
 Quadro processado com sucesso.
-Linha processada: Quadro 4 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico e sua mãe discutem a partida repentina de Magricelas. A mãe tenta minimizar a situação.
+Linha processada: 4 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, companheiros de Zion.
+Personagem 'companheiros de Zion' não encontrado.
+Personagens processados: Niu
+Descrição processada: Reunião de Niu com seus companheiros. Companheiro: 'Você deve ir, Niu.'
+Linha processada: "Reunião de Niu com seus companheiros. Companheiro: 'Você deve ir, Niu.'"
 Quadro processado com sucesso.
-Linha processada: Quadro 5 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico compartilha com entusiasmo que no planeta de Magricelas também existe gelatina.
+Linha processada: 5 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, Oráculo, Profeta.
+Personagens processados: Niu, Oráculo, Profeta
+Descrição processada: Oráculo em um ambiente místico. Oráculo: 'Você deve ir.' Profeta: 'Não, é uma armadilha!'
+Linha processada: "Oráculo em um ambiente místico. Oráculo: 'Você deve ir.' Profeta: 'Não, é uma armadilha!'"
 Quadro processado com sucesso.
-Linha processada: Quadro 6 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe expressa surpresa. Frederico descreve um frigorífico especial para gelatina colorida em sua casa.
+Linha processada: 6 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, Arquiteto.
+Personagens processados: Niu, Arquiteto
+Descrição processada: Espaço cósmico com efeitos visuais impressionantes. Arquiteto: 'Uma ameaça se aproxima, precisamos de sua ajuda.'
+Linha processada: "Espaço cósmico com efeitos visuais impressionantes. Arquiteto: 'Uma ameaça se aproxima, precisamos de sua ajuda.'"
 Quadro processado com sucesso.
-Linha processada: Quadro 7 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico explica o nome do planeta de Magricelas e a distância dele da Terra.
+Linha processada: 7 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, Arquiteto.
+Personagens processados: Niu, Arquiteto
+Descrição processada: O Arquiteto fornecendo uma explicação detalhada sobre o cosmos e a realidade. Arquiteto: 'O cosmos é mais complexo do que você imagina...'
+Linha processada: "O Arquiteto fornecendo uma explicação detalhada sobre o cosmos e a realidade. Arquiteto: 'O cosmos é mais complexo do que você imagina...'"
 Quadro processado com sucesso.
-Linha processada: Quadro 8 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico mostra à mãe um pequeno aparelho futurista. Ele explica que é um tradutor de pensamentos, permitindo-lhes comunicar com Magricelas.
+Linha processada: 8 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, Arquiteto.
+Personagens processados: Niu, Arquiteto
+Descrição processada: O Arquiteto revelando seu plano com uma projeção holográfica. Arquiteto: 'Os nascidos em Zion devem se conectar a nós para atrair o monstro.'
+Linha processada: "O Arquiteto revelando seu plano com uma projeção holográfica. Arquiteto: 'Os nascidos em Zion devem se conectar a nós para atrair o monstro.'"
 Quadro processado com sucesso.
-Linha processada: Quadro 9 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico conta à sua mãe sobre o Planeta 135 AC de Magricelas, destacando que fica a 40 mil anos-luz do nosso planeta. A mãe parece impressionada.
+Linha processada: 9 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, Arquiteto, Oráculo.
+Personagens processados: Niu, Arquiteto, Oráculo
+Descrição processada: Cena de ação e confronto. Oráculo: 'Ele não te contou tudo!'
+Linha processada: "Cena de ação e confronto. Oráculo: 'Ele não te contou tudo!'"
 Quadro processado com sucesso.
-Linha processada: Quadro 10 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe questiona como eles se comunicam. Frederico menciona um dispositivo de tradução.
+Linha processada: 10 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, Morfeus, Triniti.
+Personagens processados: Niu, Morfeus, Triniti
+Descrição processada: Zion, com atmosfera tensa. Niu: 'O Arquiteto propôs uma aliança...' Triniti: 'Eu me voluntario.'
+Linha processada: "Zion, com atmosfera tensa. Niu: 'O Arquiteto propôs uma aliança...' Triniti: 'Eu me voluntario.'"
 Quadro processado com sucesso.
-Linha processada: Quadro 11 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe encoraja Frederico a voltar aos estudos agora que Magricelas se foi.
+Linha processada: 11 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu.
+Personagens processados: Niu
+Descrição processada: Niu ponderando sozinho, com expressão de dúvida. Niu (pensando): 'Será que devemos confiar no Arquiteto?'
+Linha processada: "Niu ponderando sozinho, com expressão de dúvida. Niu (pensando): 'Será que devemos confiar no Arquiteto?'"
 Quadro processado com sucesso.
-Linha processada: Quadro 12 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Tempo depois, a mãe pergunta sobre a escola no planeta de Magricelas. Frederico comenta sobre a comunicação telepática.
+Linha processada: 12 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, habitantes de Zion.
+Personagem 'habitantes de Zion' não encontrado.
+Personagens processados: Niu
+Descrição processada: Cena de tumulto e desespero em Zion. Niu: 'Não podemos confiar neles!'
+Linha processada: "Cena de tumulto e desespero em Zion. Niu: 'Não podemos confiar neles!'"
 Quadro processado com sucesso.
-Linha processada: Quadro 13 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Dois meses depois, Frederico anuncia que Magricelas pode visitar novamente.
+Linha processada: 13 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, Triniti, voluntários.
+Personagem 'voluntários' não encontrado.
+Personagens processados: Niu, Triniti
+Descrição processada: Preparativos para a cerimônia. Niu: 'Somos todos heróis agora.'
+Linha processada: "Preparativos para a cerimônia. Niu: 'Somos todos heróis agora.'"
 Quadro processado com sucesso.
-Linha processada: Quadro 14 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe concorda com a visita, questionando detalhes.
+Linha processada: 14 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, Morfeus, filha do Profeta.
+Personagem 'filha do Profeta' não encontrado.
+Personagens processados: Niu, Morfeus
+Descrição processada: Confronto dramático com a nuvem negra. Filha do Profeta: 'Não é o que parece!'
+Linha processada: "Confronto dramático com a nuvem negra. Filha do Profeta: 'Não é o que parece!'"
 Quadro processado com sucesso.
-Linha processada: Quadro 15 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico explica o método de viagem de Magricelas e sua família, surpreendendo sua mãe.
+Linha processada: 15 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, filha do Profeta.
+Personagem 'filha do Profeta' não encontrado.
+Personagens processados: Niu
+Descrição processada: A filha do Profeta interrompendo a cerimônia com uma revelação. Filha do Profeta: 'Eles mentem, Niu! Eles querem nossos corpos!'
+Linha processada: "A filha do Profeta interrompendo a cerimônia com uma revelação. Filha do Profeta: 'Eles mentem, Niu! Eles querem nossos corpos!'"
 Quadro processado com sucesso.
-Linha processada: Quadro 16 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe comenta, um pouco preocupada, sobre o custo das viagens de Magricelas, especulando que devem ser caras em seu próprio dinheiro. Frederico parece pensativo.
+Linha processada: 16 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Sobreviventes, incluindo Niu.
+Personagem 'Sobreviventes' não encontrado.
+Personagem 'incluindo Niu' não encontrado.
+Personagens processados: 
+Descrição processada: Escuridão total, seguida de uma revelação chocante. Sobrevivente: 'O que aconteceu? Tudo está desligado...'
+Linha processada: "Escuridão total, seguida de uma revelação chocante. Sobrevivente: 'O que aconteceu? Tudo está desligado...'"
 Quadro processado com sucesso.
-Linha processada: Quadro 17 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe pede a Frederico para avisá-la quando eles chegarem para se preparar.
+Linha processada: 17 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu e sobreviventes em estado de choque e desespero.
+Personagem 'Niu e sobreviventes em estado de choque e desespero' não encontrado.
+Personagens processados: 
+Descrição processada: Ruínas de Zion, ambiente caótico e destruído. Niu: 'Tudo se foi... O que faremos agora?'
+Linha processada: "Ruínas de Zion, ambiente caótico e destruído. Niu: 'Tudo se foi... O que faremos agora?'"
 Quadro processado com sucesso.
-Linha processada: Quadro 18 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: 15 dias depois, Frederico informa que Magricelas e sua família estão a caminho.
+Linha processada: 18 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, Morfeus, outros personagens olhando para o céu.
+Personagem 'outros personagens olhando para o céu' não encontrado.
+Personagens processados: Niu, Morfeus
+Descrição processada: Visão externa de Zion com a nuvem negra aproximando-se. Personagem aleatório: 'O que é aquilo no céu?'
+Linha processada: "Visão externa de Zion com a nuvem negra aproximando-se. Personagem aleatório: 'O que é aquilo no céu?'"
 Quadro processado com sucesso.
-Linha processada: Quadro 19 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico revela que não sabe exatamente quantos membros da família de Magricelas estão vindo.
+Linha processada: 19 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu, Triniti, e outros personagens divididos em suas opiniões.
+Personagem 'e outros personagens divididos em suas opiniões' não encontrado.
+Personagens processados: Niu, Triniti
+Descrição processada: Tensão entre os personagens em meio às ruínas. Triniti: 'Devemos lutar!' Niu: 'Não há mais o que fazer...'
+Linha processada: "Tensão entre os personagens em meio às ruínas. Triniti: 'Devemos lutar!' Niu: 'Não há mais o que fazer...'"
 Quadro processado com sucesso.
-Linha processada: Quadro 20 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: A mãe expressa preocupação com o grande número de visitantes.
+Linha processada: 20 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Morfeus, Niu e outros personagens reagindo ao sacrifício.
+Personagem 'Niu e outros personagens reagindo ao sacrifício' não encontrado.
+Personagens processados: Morfeus
+Descrição processada: Cena emocional com Morfeus se sacrificando. Morfeus: 'É o único jeito...'
+Linha processada: "Cena emocional com Morfeus se sacrificando. Morfeus: 'É o único jeito...'"
 Quadro processado com sucesso.
-Linha processada: Quadro 21 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico tenta tranquilizar a mãe, mencionando que eles trazem tudo o que precisam e menciona a chegada do "campeão da gelatina".
+Linha processada: 21 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Voluntários, Niu, Triniti e outros personagens em conflito.
+Personagem 'Voluntários' não encontrado.
+Personagem 'Triniti e outros personagens em conflito' não encontrado.
+Personagens processados: Niu
+Descrição processada: Confronto entre os voluntários e outros habitantes. Voluntário: 'Não podemos desistir agora!'
+Linha processada: "Confronto entre os voluntários e outros habitantes. Voluntário: 'Não podemos desistir agora!'"
 Quadro processado com sucesso.
-Linha processada: Quadro 22 no estilo Realista.
-Linha processada: Personagens: Frederico, Mãe
-Linha processada: Frederico menciona com entusiasmo que, junto com Magricelas e sua família, virá o "campeão da gelatina". A mãe parece surpresa e curiosa.
+Linha processada: 22 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Personagens olhando para o céu em horror.
+Personagem 'Personagens olhando para o céu em horror' não encontrado.
+Personagens processados: 
+Descrição processada: A nuvem negra engolfando Zion. Niu: 'É o fim...'
+Linha processada: "A nuvem negra engolfando Zion. Niu: 'É o fim...'"
+Quadro processado com sucesso.
+Linha processada: 23 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu e outros sobreviventes.
+Personagem 'Niu e outros sobreviventes' não encontrado.
+Personagens processados: 
+Descrição processada: Escuridão total, com personagens confusos e desorientados. Personagem aleatório: 'Onde estamos? O que aconteceu?'
+Linha processada: "Escuridão total, com personagens confusos e desorientados. Personagem aleatório: 'Onde estamos? O que aconteceu?'"
+Quadro processado com sucesso.
+Linha processada: 24 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu liderando um grupo de sobreviventes.
+Personagem 'Niu liderando um grupo de sobreviventes' não encontrado.
+Personagens processados: 
+Descrição processada: Personagens caminhando em uma escuridão opressora. Niu: 'Sigam-me, temos que encontrar uma saída.'
+Linha processada: "Personagens caminhando em uma escuridão opressora. Niu: 'Sigam-me, temos que encontrar uma saída.'"
+Quadro processado com sucesso.
+Linha processada: 25 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu e outros personagens diante de corpos inertes.
+Personagem 'Niu e outros personagens diante de corpos inertes' não encontrado.
+Personagens processados: 
+Descrição processada: Revelação do destino dos humanos usados como energia. Niu: 'Não... eles estavam usando todos nós...'
+Linha processada: "Revelação do destino dos humanos usados como energia. Niu: 'Não... eles estavam usando todos nós...'"
+Quadro processado com sucesso.
+Linha processada: 26 no estilo Realista.
+Estilo processado: Realista.
+Linha processada: Personagens: Niu e sobreviventes contemplando a destruição.
+Personagem 'Niu e sobreviventes contemplando a destruição' não encontrado.
+Personagens processados: 
+Descrição processada: Ruínas de Zion sob a luz natural, mostrando a destruição das máquinas. Niu: 'A era das máquinas acabou. Agora, começamos de novo.'
+Linha processada: "Ruínas de Zion sob a luz natural, mostrando a destruição das máquinas. Niu: 'A era das máquinas acabou. Agora, começamos de novo.'"
 Quadro processado com sucesso.
