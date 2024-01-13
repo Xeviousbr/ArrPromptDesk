@@ -1,7 +1,3 @@
-Niu: Keanu Reaves no Matrix.
-Triniti: Carrie-Anne Moss no Matrix.
-Morfeus: Laurence Fishburne no Matrix.
-Profeta: Um homem idoso de aparência sábia, com longa barba e cabelos brancos que caem em cascata sobre seus ombros. Seus olhos são profundos e cheios de mistério. Ele veste uma túnica azul celestial, adornada com símbolos antigos. Em suas mãos segura um cajado de madeira entalhado, que transmite uma aura de poder e autoridade
-Filha do Profeta: Uma jovem de beleza misteriosa, com cabelos negros como a noite e olhos intensos que parecem conter segredos profundos. Ela usa um vestido branco que flui suavemente ao seu redor, criando uma imagem de pureza e sabedoria. Em volta de seu pescoço, ela usa um colar com uma pedra preciosa de cor vibrante, que irradia uma luz suave e fascinante.
-Oráculo: Uma figura enigmática, de aparência jovem e olhos penetrantes. Seus cabelos são longos e prateados, caindo em cascata sobre seus ombros. Ela veste um manto branco e fluido, com detalhes dourados. Seu rosto transmite sabedoria e mistério, e ela carrega um cajado com uma esfera de cristal no topo.
-Arquiteto: Um homem alto e imponente, com uma presença dominante. Seus cabelos são curtos e grisalhos, e ele tem um olhar penetrante. Ele veste um terno preto elegante, com uma gravata borboleta prateada. Sua expressão é séria e determinada, e ele carrega consigo um tablet futurista com informações e projetos.
+Menino: Um jovem com cabelos castanhos e olhos expressivos, vestido com uma camiseta simples e calças jeans. No início, aparece fascinado, depois determinado e focado. Seu estilo evolui sutilmente ao longo dos quadros, refletindo seu crescimento.
+Mãe: Uma mulher de meia-idade, com cabelos presos em um coque simples, rosto gentil, e olhos que refletem carinho e preocupação. Veste roupas de trabalho confortáveis, como uma blusa simples e uma saia. Ela exibe uma expressão de determinação ao procurar cursos para o filho.
+Professor de Programação: Homem de meia-idade com óculos, cabelos curtos e grisalhos, e um semblante amigável, porém sério. Vestido com uma camisa social e calças formais, ele transmite conhecimento e autoridade na sala de aula.

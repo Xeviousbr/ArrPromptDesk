@@ -68,7 +68,9 @@ class MainWindow(QMainWindow):
         ArrPro.processar_dados()
         with open('saida.txt', 'r', encoding='ISO-8859-1') as f:
             saida = f.read()
-        self.output_text.setPlainText(saida)
+        conteudo_utf8 = saida.encode('ISO-8859-1').decode('UTF-8')
+        self.output_text.setPlainText(conteudo_utf8)
+
 
 def main():
     app = QApplication([])
