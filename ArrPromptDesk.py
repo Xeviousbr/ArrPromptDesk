@@ -1,5 +1,6 @@
 from PyQt5.QtWidgets import QApplication, QLabel, QMainWindow, QPushButton, QTextEdit, QVBoxLayout, QWidget
 import ArrPro
+import pyperclip
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -68,9 +69,9 @@ class MainWindow(QMainWindow):
         ArrPro.processar_dados()
         with open('saida.txt', 'r', encoding='ISO-8859-1') as f:
             saida = f.read()
-        conteudo_utf8 = saida.encode('ISO-8859-1').decode('UTF-8')
-        self.output_text.setPlainText(conteudo_utf8)
-
+        saida_utf8 = saida.encode('ISO-8859-1').decode('UTF-8')
+        pyperclip.copy(saida_utf8)
+        self.output_text.setPlainText(saida)
 
 def main():
     app = QApplication([])
