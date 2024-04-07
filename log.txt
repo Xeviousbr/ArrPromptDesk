@@ -1,147 +1,72 @@
 Lendo entradas
 Entradas lidas
 Iniciando processamento de quadros...
-Total de quadros identificados: 20
-Linha processada: 1 no estilo Realista.
+Total de quadros identificados: 9
+Linha processada: Quadro 1 no estilo Realista.
 Estilo processado: Realista.
-Linha processada: Personagens: Luffy
-Personagens processados: Luffy
-Descrição processada: Luffy está caminhando casualmente, comendo uma fruta misteriosa, a fruta da borracha. Ele parece despreocupado, com um sorriso no rosto e os olhos brilhando de curiosidade pela fruta que segura.
-Linha processada: Luffy está caminhando casualmente, comendo uma fruta misteriosa, a fruta da borracha. Ele parece despreocupado, com um sorriso no rosto e os olhos brilhando de curiosidade pela fruta que segura.
+Linha processada: Personagens: Menino.
+Personagens processados: Menino
+Linha processada: Uma cena tranquila de uma casa isolada, contrastando com o movimento do quadro anterior. Um menino olha pela janela, observando a vastidão vazia ao redor.
+Descrição processada: Uma cena tranquila de uma casa isolada, contrastando com o movimento do quadro anterior. Um menino olha pela janela, observando a vastidão vazia ao redor.
 Quadro processado com sucesso.
-Linha processada: 2 no estilo Realista.
+Linha processada: Quadro 2 no estilo Realista.
 Estilo processado: Realista.
-Linha processada: Personagens: Luffy, Dragão
-Personagem 'Dragão' não encontrado.
-Personagens processados: Luffy
-Descrição processada: Um imponente dragão aparece de repente no céu, causando um grande contraste com a tranquilidade de Luffy. O dragão é majestoso e assustador, com escamas brilhantes e olhos ardentes.
-Linha processada: Um imponente dragão aparece de repente no céu, causando um grande contraste com a tranquilidade de Luffy. O dragão é majestoso e assustador, com escamas brilhantes e olhos ardentes.
+Linha processada: Personagens: Menino, mãe.
+Personagem 'mãe' não encontrado.
+Personagens processados: Menino
+Linha processada: O menino e sua mãe, carregando caixas, entram no edifício residencial cheio de vida e cor. A expressão do menino é de hesitação e surpresa.
+Descrição processada: O menino e sua mãe, carregando caixas, entram no edifício residencial cheio de vida e cor. A expressão do menino é de hesitação e surpresa.
 Quadro processado com sucesso.
-Linha processada: 3 no estilo Realista.
+Linha processada: Quadro 3 no estilo Realista.
 Estilo processado: Realista.
-Linha processada: Personagens: Luffy, Dragão
-Personagem 'Dragão' não encontrado.
-Personagens processados: Luffy
-Descrição processada: Luffy, agora em posição de luta, enfrenta o dragão. Eles estão prestes a colidir, com Luffy preparando um punho de borracha esticado e o dragão rugindo ferozmente.
-Linha processada: Luffy, agora em posição de luta, enfrenta o dragão. Eles estão prestes a colidir, com Luffy preparando um punho de borracha esticado e o dragão rugindo ferozmente.
+Linha processada: Personagens: Menino, mãe.
+Personagem 'mãe' não encontrado.
+Personagens processados: Menino
+Linha processada: A mãe, vestida com um avental de costura e cercada por tecidos e linhas, apresenta ao menino alguns pedaços de giz de alfaiate azul. Ela sorri, incentivando-o a usar o giz. O menino olha para o giz com curiosidade e interesse renovados. No fundo, é possível ver um esboço de design de roupa em um manequim, destacando a profissão da mãe como costureira.
+Descrição processada: A mãe, vestida com um avental de costura e cercada por tecidos e linhas, apresenta ao menino alguns pedaços de giz de alfaiate azul. Ela sorri, incentivando-o a usar o giz. O menino olha para o giz com curiosidade e interesse renovados. No fundo, é possível ver um esboço de design de roupa em um manequim, destacando a profissão da mãe como costureira.
 Quadro processado com sucesso.
-Linha processada: 4 no estilo Realista.
+Linha processada: Quadro 4 no estilo Realista.
 Estilo processado: Realista.
-Linha processada: Personagens: Luffy, Dragão
-Personagem 'Dragão' não encontrado.
-Personagens processados: Luffy
-Descrição processada: O dragão derruba Luffy com um poderoso golpe de cauda. Luffy cai no chão, visivelmente abalado, mas determinado a se levantar.
-Linha processada: O dragão derruba Luffy com um poderoso golpe de cauda. Luffy cai no chão, visivelmente abalado, mas determinado a se levantar.
+Linha processada: Personagens: Menino, mãe.
+Personagem 'mãe' não encontrado.
+Personagens processados: Menino
+Linha processada: A mãe entrega ao menino um conjunto de giz colorido. Seus olhos brilham com uma mistura de surpresa e curiosidade.
+Descrição processada: A mãe entrega ao menino um conjunto de giz colorido. Seus olhos brilham com uma mistura de surpresa e curiosidade.
 Quadro processado com sucesso.
-Linha processada: 5 no estilo Realista.
+Linha processada: Quadro 5 no estilo Realista.
 Estilo processado: Realista.
-Linha processada: Personagens: Luffy
-Personagens processados: Luffy
-Descrição processada: Luffy é derrubado mais duas vezes, mostrando sua crescente frustração e determinação. Cada queda é mais dramática que a anterior, destacando a intensidade da batalha.
-Linha processada: Luffy é derrubado mais duas vezes, mostrando sua crescente frustração e determinação. Cada queda é mais dramática que a anterior, destacando a intensidade da batalha.
+Linha processada: Personagens: Menino.
+Personagens processados: Menino
+Linha processada: O menino, ajoelhado no chão do apartamento, desenha com giz. Ao seu redor, naves espaciais e armas futurísticas ganham vida nas superfícies.
+Descrição processada: O menino, ajoelhado no chão do apartamento, desenha com giz. Ao seu redor, naves espaciais e armas futurísticas ganham vida nas superfícies.
 Quadro processado com sucesso.
-Linha processada: 6 no estilo Realista.
+Linha processada: Quadro 6 no estilo Realista.
 Estilo processado: Realista.
-Linha processada: Personagens: Luffy
-Personagens processados: Luffy
-Descrição processada: Luffy parece morto, deitado imóvel no chão, sob um céu tempestuoso, sugerindo um momento dramático e crucial na história.
-Linha processada: Luffy parece morto, deitado imóvel no chão, sob um céu tempestuoso, sugerindo um momento dramático e crucial na história.
+Linha processada: Personagens: Cidade desenhada.
+Personagem 'Cidade desenhada' não encontrado.
+Personagens processados: 
+Linha processada: Uma vista detalhada de uma das cidades desenhadas pelo menino, mostrando prédios altos, ruas movimentadas e um parque.
+Descrição processada: Uma vista detalhada de uma das cidades desenhadas pelo menino, mostrando prédios altos, ruas movimentadas e um parque.
 Quadro processado com sucesso.
-Linha processada: 7 no estilo Realista.
+Linha processada: Quadro 7 no estilo Realista.
 Estilo processado: Realista.
-Linha processada: Personagens: Luffy
-Personagens processados: Luffy
-Descrição processada: Enquanto Luffy jaz no chão, uma energia misteriosa começa a emanar dele. Seu corpo começa a brilhar com uma luz fraca, indicando uma transformação iminente.
-Linha processada: Enquanto Luffy jaz no chão, uma energia misteriosa começa a emanar dele. Seu corpo começa a brilhar com uma luz fraca, indicando uma transformação iminente.
+Linha processada: Personagens: Menino, mãe.
+Personagem 'mãe' não encontrado.
+Personagens processados: Menino
+Linha processada: A cena se passa na sala de estar aconchegante do apartamento, onde a mãe está sentada no sofá, ligando uma televisão preto e branca com uma antiga antena de "orelhas de coelho". Na tela, uma orquestra sinfônica está se apresentando, capturando a atenção de ambos. O menino se senta no chão, perto dela, ambos envolvidos pela música que preenche o ambiente. Pode-se ver a emoção e a conexão compartilhada entre eles, iluminados pelo brilho da TV, que lança sombras suaves sobre seus rostos concentrados.
+Descrição processada: A cena se passa na sala de estar aconchegante do apartamento, onde a mãe está sentada no sofá, ligando uma televisão preto e branca com uma antiga antena de "orelhas de coelho". Na tela, uma orquestra sinfônica está se apresentando, capturando a atenção de ambos. O menino se senta no chão, perto dela, ambos envolvidos pela música que preenche o ambiente. Pode-se ver a emoção e a conexão compartilhada entre eles, iluminados pelo brilho da TV, que lança sombras suaves sobre seus rostos concentrados.
 Quadro processado com sucesso.
-Linha processada: 8 no estilo Realista.
+Linha processada: Quadro 8 no estilo Realista.
 Estilo processado: Realista.
-Linha processada: Personagens: Luffy
-Personagens processados: Luffy
-Descrição processada: Luffy ativa o Gear Five inesperadamente. Ele começa a brilhar com uma aura poderosa, e seu corpo começa a mudar de forma.
-Linha processada: Luffy ativa o Gear Five inesperadamente. Ele começa a brilhar com uma aura poderosa, e seu corpo começa a mudar de forma.
+Linha processada: Personagens: Menino.
+Personagens processados: Menino
+Linha processada: O menino desenha enquanto escuta música sinfônica, completamente absorto. Linhas onduladas que lembram um eletroencefalograma fluem do giz, simbolizando a música.
+Descrição processada: O menino desenha enquanto escuta música sinfônica, completamente absorto. Linhas onduladas que lembram um eletroencefalograma fluem do giz, simbolizando a música.
 Quadro processado com sucesso.
-Linha processada: 9 no estilo Realista.
+Linha processada: Quadro 9 no estilo Realista.
 Estilo processado: Realista.
-Linha processada: Personagens: Luffy
-Personagens processados: Luffy
-Descrição processada: Luffy agora tem cabelos brancos espetados e uma aparência mais feroz e poderosa, refletindo a transformação dramática provocada pelo Gear Five.
-Linha processada: Luffy agora tem cabelos brancos espetados e uma aparência mais feroz e poderosa, refletindo a transformação dramática provocada pelo Gear Five.
-Quadro processado com sucesso.
-Linha processada: 10 no estilo Realista.
-Estilo processado: Realista.
-Linha processada: Personagens: Kaidou, Luffy
-Personagens processados: Kaidou, Luffy
-Descrição processada: Kaidou revela sua verdadeira forma, segurando uma espada maciça, a "Massa de Ferro". Ele parece mais ameaçador e pronto para o combate.
-Linha processada: Kaidou revela sua verdadeira forma, segurando uma espada maciça, a "Massa de Ferro". Ele parece mais ameaçador e pronto para o combate.
-Quadro processado com sucesso.
-Linha processada: 11 no estilo Realista.
-Estilo processado: Realista.
-Linha processada: Personagens: Kaidou, Luffy
-Personagens processados: Kaidou, Luffy
-Descrição processada: Kaidou ataca Luffy na cabeça com sua espada, mas Luffy, fortalecido pelo Gear Five, sobrevive ao golpe, surpreendendo Kaidou.
-Linha processada: Kaidou ataca Luffy na cabeça com sua espada, mas Luffy, fortalecido pelo Gear Five, sobrevive ao golpe, surpreendendo Kaidou.
-Quadro processado com sucesso.
-Linha processada: 12 no estilo Realista.
-Estilo processado: Realista.
-Linha processada: Personagens: Luffy
-Personagens processados: Luffy
-Descrição processada: Luffy, agora com uma aparência estranha e quase alienígena, começa a correr em direção a Kaidou, preparando-se para contra-atacar.
-Linha processada: Luffy, agora com uma aparência estranha e quase alienígena, começa a correr em direção a Kaidou, preparando-se para contra-atacar.
-Quadro processado com sucesso.
-Linha processada: 13 no estilo Realista.
-Estilo processado: Realista.
-Linha processada: Personagens: Luffy, Kaidou
-Personagens processados: Luffy, Kaidou
-Descrição processada: Luffy ataca, transformando tudo ao seu redor em borracha, incluindo o ambiente e os ataques de Kaidou, mostrando um controle total sobre seu poder.
-Linha processada: Luffy ataca, transformando tudo ao seu redor em borracha, incluindo o ambiente e os ataques de Kaidou, mostrando um controle total sobre seu poder.
-Quadro processado com sucesso.
-Linha processada: 14 no estilo Realista.
-Estilo processado: Realista.
-Linha processada: Personagens: Kaidou, Luffy
-Personagens processados: Kaidou, Luffy
-Descrição processada: Kaidou se transforma novamente em um dragão e expele uma baforada atômica, criando uma explosão massiva ao redor deles.
-Linha processada: Kaidou se transforma novamente em um dragão e expele uma baforada atômica, criando uma explosão massiva ao redor deles.
-Quadro processado com sucesso.
-Linha processada: 15 no estilo Realista.
-Estilo processado: Realista.
-Linha processada: Personagens: Luffy, Kaidou
-Personagens processados: Luffy, Kaidou
-Descrição processada: Luffy se defende habilmente da baforada atômica, usando suas habilidades de borracha, enquanto Kaidou observa, surpreso e impressionado.
-Linha processada: Luffy se defende habilmente da baforada atômica, usando suas habilidades de borracha, enquanto Kaidou observa, surpreso e impressionado.
-Quadro processado com sucesso.
-Linha processada: 16 no estilo Realista.
-Estilo processado: Realista.
-Linha processada: Personagens: Luffy, Kaidou
-Personagens processados: Luffy, Kaidou
-Descrição processada: Luffy se torna gigante e se esconde nas nuvens, enquanto Kaidou olha para cima, procurando-o. Luffy parece uma sombra gigantesca entre as nuvens.
-Linha processada: Luffy se torna gigante e se esconde nas nuvens, enquanto Kaidou olha para cima, procurando-o. Luffy parece uma sombra gigantesca entre as nuvens.
-Quadro processado com sucesso.
-Linha processada: 17 no estilo Realista.
-Estilo processado: Realista.
-Linha processada: Personagens: Luffy
-Personagens processados: Luffy
-Descrição processada: Neste quadro, Luffy, ainda escondido nas nuvens, fecha os olhos e concentra-se intensamente. Uma aura sutil emana dele, simbolizando a ativação de seu Haki da Observação.
-Linha processada: Neste quadro, Luffy, ainda escondido nas nuvens, fecha os olhos e concentra-se intensamente. Uma aura sutil emana dele, simbolizando a ativação de seu Haki da Observação.
-Quadro processado com sucesso.
-Linha processada: 18 no estilo Realista.
-Estilo processado: Realista.
-Linha processada: Personagens: Luffy, Kaidou
-Personagens processados: Luffy, Kaidou
-Descrição processada: Luffy, agora gigante, agarra Kaidou e o utiliza como uma corda, girando-o no ar. Ele ativa seu Haki da Observação, desviando de todos os ataques de Kaidou com facilidade.
-Linha processada: Luffy, agora gigante, agarra Kaidou e o utiliza como uma corda, girando-o no ar. Ele ativa seu Haki da Observação, desviando de todos os ataques de Kaidou com facilidade.
-Quadro processado com sucesso.
-Linha processada: 19 no estilo Realista.
-Estilo processado: Realista.
-Linha processada: Personagens: Luffy, Kaidou
-Personagens processados: Luffy, Kaidou
-Descrição processada: Luffy, empunhando um raio em sua mão, ataca Kaidou com uma energia elétrica impressionante. O raio é mostrado como uma extensão de seu poder de borracha, criando um efeito visual dramático e poderoso.
-Linha processada: Luffy, empunhando um raio em sua mão, ataca Kaidou com uma energia elétrica impressionante. O raio é mostrado como uma extensão de seu poder de borracha, criando um efeito visual dramático e poderoso.
-Quadro processado com sucesso.
-Linha processada: 20 no estilo Realista.
-Estilo processado: Realista.
-Linha processada: Personagens: Luffy
-Personagens processados: Luffy
-Descrição processada: Luffy, agora em um estado de euforia, começa a pular no chão, que se transforma em borracha sob seus pés. Ele está rindo e repetindo a frase "gomo... gomo gomo...", exibindo uma mistura de alegria e alívio após a intensa batalha.
-Linha processada: Luffy, agora em um estado de euforia, começa a pular no chão, que se transforma em borracha sob seus pés. Ele está rindo e repetindo a frase "gomo... gomo gomo...", exibindo uma mistura de alegria e alívio após a intensa batalha.
+Linha processada: Personagens: Menino, Senhor.
+Personagens processados: Menino, Senhor
+Linha processada: O quadro foca no menino, que mostra com orgulho um de seus desenhos mais recentes a um vizinho, um senhor de idade, elegante, vestido com um suéter de cashmere e calças de tecido fino. Eles estão em um corredor iluminado do prédio, com o desenho nas mãos do menino destacando as linhas onduladas que simbolizam a música. O senhor, com óculos pendurados num cordão ao redor do pescoço e uma expressão de profundo interesse e surpresa, inclina-se para ver melhor o desenho. Ele coloca uma mão sobre o ombro do menino, apontando para as linhas onduladas com a outra, fazendo uma observação que sugere sua percepção do talento musical implícito nos desenhos.
+Descrição processada: O quadro foca no menino, que mostra com orgulho um de seus desenhos mais recentes a um vizinho, um senhor de idade, elegante, vestido com um suéter de cashmere e calças de tecido fino. Eles estão em um corredor iluminado do prédio, com o desenho nas mãos do menino destacando as linhas onduladas que simbolizam a música. O senhor, com óculos pendurados num cordão ao redor do pescoço e uma expressão de profundo interesse e surpresa, inclina-se para ver melhor o desenho. Ele coloca uma mão sobre o ombro do menino, apontando para as linhas onduladas com a outra, fazendo uma observação que sugere sua percepção do talento musical implícito nos desenhos.
 Quadro processado com sucesso.

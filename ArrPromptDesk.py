@@ -1,29 +1,34 @@
 from PyQt5.QtWidgets import QApplication, QLabel, QMainWindow, QPushButton, QTextEdit, QVBoxLayout, QWidget
+from PyQt5.QtGui import QFont
+# from PyQt5.QtWidgets import QApplication, QLabel, QMainWindow, QPushButton, QTextEdit, QVBoxLayout, QWidget, QFont
 import ArrPro
 import pyperclip
 
 class MainWindow(QMainWindow):
     def __init__(self):
-        super().__init__()        
+        super().__init__()     
 
-        # Criar os labels
+        fonte = QFont()
+        fonte.setPointSize(12) 
+
         self.label_personagens = QLabel("Personagens")
         self.label_quadros = QLabel("Quadros")
         self.label_saida = QLabel("Saída")
-
-        # Criar os campos de texto de entrada
         self.input_text1 = QTextEdit(self)
         self.input_text2 = QTextEdit(self)
-
-        # Criar o botão de processamento
         self.process_button = QPushButton("Processar", self)
         self.process_button.clicked.connect(self.on_process_button_clicked)  # Conectar ao método de processamento        
-
-        # Criar o campo de texto de saída
         self.output_text = QTextEdit(self)
-        self.output_text.setReadOnly(True)  # Torna o campo de saída somente leitura
+        self.output_text.setReadOnly(True)  
 
-        # Layout vertical para organizar os widgets
+        # Aplica a fonte aos widgets
+        self.label_personagens.setFont(fonte)
+        self.label_quadros.setFont(fonte)
+        self.label_saida.setFont(fonte)
+        self.input_text1.setFont(fonte)
+        self.input_text2.setFont(fonte)
+        self.output_text.setFont(fonte)
+
         layout = QVBoxLayout()
         layout.addWidget(self.label_personagens)
         layout.addWidget(self.input_text1)
@@ -32,28 +37,20 @@ class MainWindow(QMainWindow):
         layout.addWidget(self.process_button)  
         layout.addWidget(self.label_saida)
         layout.addWidget(self.output_text)        
-
-        # Configurar o widget central com o layout
         central_widget = QWidget()
         central_widget.setLayout(layout)
         self.setCentralWidget(central_widget)
-
-        # Configurações adicionais da janela
-        self.setWindowTitle("Programa com Botão de Processamento")
-        self.setGeometry(100, 100, 400, 300)
-
+        self.setWindowTitle("Coloca os personagens nos quadros")
+        self.setGeometry(150, 150, 600, 400)
         self.carregar_textos_iniciais()
 
     def carregar_textos_iniciais(self):
-        # Carregar o conteúdo de 'personagens.txt' em input_text1
         try:
             with open('personagens.txt', 'r', encoding='ISO-8859-1') as f:
                 self.input_text1.setPlainText(f.read())
         except FileNotFoundError:
             print("Arquivo 'personagens.txt' não encontrado. Iniciando com campo vazio.")
             self.input_text1.setPlainText("")
-
-        # Carregar o conteúdo de 'quadros.txt' em input_text2
         try:
             with open('quadros.txt', 'r', encoding='ISO-8859-1') as f:
                 self.input_text2.setPlainText(f.read())
@@ -65,13 +62,12 @@ class MainWindow(QMainWindow):
         with open('personagens.txt', 'w', encoding='ISO-8859-1') as f:
             f.write(self.input_text1.toPlainText())
         with open('quadros.txt', 'w', encoding='ISO-8859-1') as f:
-            f.write(self.input_text2.toPlainText())
+            f.write(self.input_text2.toPlainText())        
         ArrPro.processar_dados()
         with open('saida.txt', 'r', encoding='ISO-8859-1') as f:
             saida = f.read()
-        saida_utf8 = saida.encode('ISO-8859-1').decode('UTF-8')
-        pyperclip.copy(saida_utf8)
-        self.output_text.setPlainText(saida)
+        conteudo_utf8 = saida.encode('ISO-8859-1').decode('UTF-8')
+        self.output_text.setPlainText(conteudo_utf8)
 
 def main():
     app = QApplication([])
